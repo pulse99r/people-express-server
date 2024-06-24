@@ -33,4 +33,5 @@ const people = [
   }
 ];
 
-exports.default = people;
+// export default people
+module.exports = people
